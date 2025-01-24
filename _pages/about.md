@@ -26,7 +26,9 @@ He has now published a total of 45 articles (37 first works or correspondences: 
 <span class='anchor' id='-xl'></span>
 
 # 🔬 Education/Experience
-## *2021.04 - Present*, <p align="right">月是故乡明</p>华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
+## Associate Professor<font size=5><p align="right">*2021.04 - Present*</p><font>
+
+华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
  
 <span class='anchor' id='-lwzl'></span>
