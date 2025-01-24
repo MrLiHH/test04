@@ -26,7 +26,8 @@ He has now published a total of 45 articles (37 first works or correspondences: 
 <span class='anchor' id='-xl'></span>
 
 # 🔬 Education/Experience
-## <div style="font-size:16px"><span style="float:right">右对齐</span>左对齐 </div>
+## 
+<div style="font-size:16px"><span style="float:right">右对齐</span>左对齐 </div>
 Associate Professor<font size=5><p align="right">*2021.04 - Present*</p><font>
 
 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
